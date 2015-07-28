@@ -3,14 +3,24 @@
 
 ### Reply
 -------------
-- Insert DB Parameter Request List
+
 ```
+- Insert DB Parameter Request List
+
 info_idx  //  INFO TABLE로 부터 받은 info_idx
 context   //  댓글 내용
 email     //  이메일 
 ```
 
-- Select DB Parameter Request List
+
 ```
+- Select DB Parameter Request List
+
 info_idx  //  INFO TABLE로 부터 받은 info_idx
+
+- Select DB Parameter Response List
+
+CONTENT   // 댓글 내용
+EMAIL     // 이메일
+DATE      // 댓글 등록일
 ```
