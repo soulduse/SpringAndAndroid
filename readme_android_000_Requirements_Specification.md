@@ -4,8 +4,10 @@
 ### Reply
 -------------
 - 필수 SEND Parameter
+```
 1. info_idx
 2. dbType=[select,insert,update,delete]
+```
 
 - Insert
 ```
