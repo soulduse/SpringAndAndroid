@@ -4,7 +4,8 @@
 ### Reply
 -------------
 - 필수 SEND Parameter
->info_idx
+> info_idx
+> dbType=[select,insert,update,delete]
 
 - Insert
 ```
