@@ -8,6 +8,6 @@
     - 플레이스토어 주소 : (https://play.google.com/store/apps/details?id=com.jw.busan)
     
 2. 주요스킬
-    - REST 방식 구현(Responsebody)
-    - DB CRUD
-    - 앱에서 요청이 있을 경우 해당 데이터 JSON형식으로 제공.
+    - REST 방식구현 : ResponseBody
+    - Mapper : MyBatis 
+    - Data   : JSON
